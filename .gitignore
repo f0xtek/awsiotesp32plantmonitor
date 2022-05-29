@@ -1,0 +1,11 @@
+**/AmazonRootCA1.cer
+**/AmazonRootCA3.cer
+**/*.pem
+**/*.key
+**/*.crt
+
+.vscode/
+.idea/
+
+terraform/secret.auto.tfvars
+**/.terraform*
